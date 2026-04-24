@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "romastokriceri",
-        "email": "kritskiyroma896@gmail.com"
-    },
-    "record": {
-        "CNAME": "goette-bookshelf.vercel.app"
-    }
+  "owner": {
+    "username": "romastokriceri",
+    "email": "kritskiyroma896@gmail.com"
+  },
+  "record": {
+    "CNAME": "goette-bookshelf.vercel.app"
+  }
 }
